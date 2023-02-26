@@ -116,7 +116,7 @@ html {
   text-align: center;
   margin-bottom: 50px;
   text-transform: uppercase;
-  background: url("../images/split.png") 880px 45px no-repeat;
+  background: url("../split.png") 880px 45px no-repeat;
 }
 .main__cards {
   display: flex;
@@ -162,7 +162,7 @@ html {
   right: 100px;
   width: 9px;
   height: 22px;
-  background: url("../images/dollar-icon.jpg") no-repeat;
+  background: url("../dollar-icon.jpg") no-repeat;
 }
 .main__card-price--second::after {
   content: "";
@@ -172,7 +172,7 @@ html {
   right: 110px;
   width: 9px;
   height: 22px;
-  background: url("../images/dollar-icon.jpg") no-repeat;
+  background: url("../dollar-icon.jpg") no-repeat;
 }
 .main__card-price--first {
   margin-top: 137px;
